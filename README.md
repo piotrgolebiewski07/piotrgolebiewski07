@@ -1,4 +1,4 @@
-# Hi, I'm Piotr 👋
+# Hi, I'm Piotr
 
 **Python Developer | Data Science | AI & ML**
 
