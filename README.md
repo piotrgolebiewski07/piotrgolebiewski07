@@ -1,34 +1,39 @@
 # Hi, I'm Piotr
 
-**Python Developer | Data Science | AI & ML**
+**Python Backend Developer | Data & Machine Learning Enthusiast**
 
-Building backend APIs and developing my skills toward Machine Learning applications.
+I build backend APIs in Python and gradually extend them with data analysis and machine learning components. I focus on clean architecture, maintainable code, and practical problem-solving.
 
 ---
 
 ### Technologies & Tools
-- Python, FastAPI, SQLAlchemy
+- Python, Flask, FastAPI, SQLAlchemy
+- REST APIs, database design, migrations
 - Pandas, NumPy, Matplotlib
-- scikit-learn
+- scikit-learn (ML fundamentals)
 - Git, GitHub
 
 ---
 
 ### Current focus
-- Machine Learning fundamentals  
-- Model training & evaluation  
-- Building maintainable backend APIs  
+- Designing and improving backend APIs
+- Writing clean, testable Python code
+- Learning machine learning fundamentals and model evaluation
+- Connecting backend systems with data-driven features
 
 ---
 
 ### Projects
-Here are some of my public projects:
+Some of my public projects include:
 
-- **Expenses Manager API (FastAPI)** – backend system for tracking expenses with CRUD operations and data visualization  
+- **Food Planner API (Flask)** – REST backend with flexible query filtering,
+  sorting, and database migrations  
+- **Expenses Manager API (FastAPI)** – backend system for tracking expenses
+  with CRUD operations and data visualization  
 
-(Feel free to check more repositories below!)
+(Feel free to explore the repositories below.)
 
 ---
 
 ### Connect with me
-[LinkedIn](https://www.linkedin.com/in/piotr-gol/)  
+[LinkedIn](https://www.linkedin.com/in/piotr-gol/)
