@@ -1,15 +1,19 @@
 # Hi, I'm Piotr
 
-**Python Backend Developer | Data & Machine Learning Enthusiast**
+**Python Backend Developer | REST APIs | Flask | FastAPI**
 
-I build backend APIs in Python and gradually extend them with data analysis and machine learning components. I focus on clean architecture, maintainable code, and practical problem-solving.
+I build backend APIs in Python with a focus on clean architecture, testability,
+and maintainability. I am particularly interested in designing well-structured
+systems that can later be extended with data analysis or machine learning features.
+
 
 ---
 
 ### Technologies & Tools
-- Python, Flask, FastAPI, SQLAlchemy
-- REST APIs, database design, migrations
-- Pandas, NumPy, Matplotlib
+- Python, Flask, FastAPI
+- SQLAlchemy, relational databases, migrations
+- REST APIs, backend architecture
+- Pandas, NumPy (data processing and analysis)
 - scikit-learn (ML fundamentals)
 - Git, GitHub
 
@@ -18,18 +22,21 @@ I build backend APIs in Python and gradually extend them with data analysis and 
 ### Current focus
 - Designing and improving backend APIs
 - Writing clean, testable Python code
+- Strengthening data analysis skills with Pandas
 - Learning machine learning fundamentals and model evaluation
-- Connecting backend systems with data-driven features
 
 ---
 
 ### Projects
 Some of my public projects include:
 
-- **Food Planner API (Flask)** – REST backend with flexible query filtering,
-  sorting, and database migrations  
-- **Expenses Manager API (FastAPI)** – backend system for tracking expenses
-  with CRUD operations and data visualization  
+- **Food Planner API (Flask)**
+  REST backend with authentication, flexible query filtering,
+  pagination, sorting, and database migrations
+  
+- **Expenses Manager API (FastAPI)**
+  Backend system for tracking expenses
+  with CRUD operations and basic data visualization  
 
 (Feel free to explore the repositories below.)
 
