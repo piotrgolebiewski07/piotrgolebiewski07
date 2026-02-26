@@ -1,4 +1,4 @@
-# Hi, I'm Piotr
+# Hi, I'm Peter
 
 **Python Backend Developer | FastAPI | SQLAlchemy | REST API**
 
