@@ -42,13 +42,13 @@ Some of my public projects include:
   Expense tracking backend featuring JWT authentication, SQLAlchemy ORM,
   Pydantic validation, and analytical capabilities
   including aggregated statistics and data visualization.
-  Code: https://github.com/piotrgolebiewski07/expenses-manager
-  
+  Code: https://github.com/piotrgolebiewski07/expenses_manager
+        
 - **Food Planner API (Flask)**
   REST backend with authentication, flexible query filtering,
   pagination, sorting, database migrations, Dockerized setup
   (Dockerfile + docker-compose), and test coverage.
-  Code: https://github.com/piotrgolebiewski07/food-planner
+  Code: https://github.com/piotrgolebiewski07/food_planner
   
 ---
 
